@@ -6,4 +6,6 @@
 * [OpenClaw运维](docs/OpenClaw运维.md)
 * [SKILLS编写](docs/SKILLS编写.md)
 * [QClaw记录](docs/QClaw记录.md)
+* [实践](docs/实践.md)
+    * [内核漏洞修复](docs/实践/内核漏洞修复/内核漏洞修复.md)
 
